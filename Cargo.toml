@@ -1,0 +1,15 @@
+[package]
+name = "webdrill"
+version = "0.1.0"
+authors = ["渡部真伍 <s1170087@gmail.com>"]
+
+[dependencies]
+base64 = "~0.6.0"
+regex = "0.2"
+
+# futures = "0.1"
+# hyper = "0.11"
+# tokio-core = "0.1"
+
+reqwest = "0.8.2"
+serde_json = "1.0"
